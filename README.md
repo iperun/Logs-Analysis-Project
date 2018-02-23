@@ -1,4 +1,4 @@
-Logs Analysis Project
+# Logs Analysis Project
 
 Questions:
 
@@ -9,7 +9,7 @@ Who are the most popular article authors of all time?
 
 On which days did more than 1% of requests lead to errors? 
 
-Requirements:
+# Requirements:
 
 Python 3.6.2
 
@@ -17,7 +17,7 @@ psycopg2
 
 PSQL
 
-How to run:
+# How to run:
 
 Set up VM with vagrant up, then vagrant ssh.
 
